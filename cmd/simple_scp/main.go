@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/Lyrichu/simple_scp/internal/scp"
 	"log"
 	"os"
-	"simple_scp/internal/scp"
 	"strings"
 )
 
