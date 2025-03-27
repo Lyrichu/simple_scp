@@ -1,4 +1,4 @@
-module simple_scp
+module github.com/Lyrichu/simple_scp
 
 go 1.24.1
 
